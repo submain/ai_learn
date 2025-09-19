@@ -1,0 +1,93 @@
+Hello, how are you today?	Bonjour, comment allez-vous aujourd'hui ?
+The weather is very nice.	Il fait très beau.
+I need to buy some groceries.	Je dois acheter des courses.
+What time does the meeting start?	À quelle heure commence la réunion ?
+That's a great idea!	C'est une excellente idée !
+Could you please pass me the salt?	Pourriez-vous me passer le sel, s'il vous plaît ?
+She loves reading science fiction novels.	Elle adore lire des romans de science-fiction.
+The project deadline has been extended.	La date limite du projet a été repoussée.
+Where is the nearest train station?	Où est la gare la plus proche ?
+This coffee is too hot to drink.	Ce café est trop chaud pour être bu.
+Let's go for a walk in the park.	Allons nous promener dans le parc.
+I have already seen that movie twice.	J'ai déjà vu ce film deux fois.
+Don't forget to lock the door.	N'oubliez pas de fermer la porte à clé.
+How much does this cost?	Cela coûte combien ?
+The information is confidential.	Les informations sont confidentielles.
+Congratulations on your promotion!	Félicitations pour votre promotion !
+The flight has been delayed due to bad weather.		Le vol a été retardé en raison du mauvais temps.
+Can you recommend a good restaurant nearby?		Pouvez-vous recommander un bon restaurant à proximité ?
+I'm sorry, I didn't understand.	Je suis désolé, je n'ai pas compris.
+Please sign at the bottom of the page.	Veuillez signer au bas de la page.
+He runs a successful business.	Il dirige une entreprise prospère.
+The instructions were unclear.	Les instructions n'étaient pas claires.
+What is your favorite hobby?	Quel est votre passe-temps favori ?
+The package will arrive tomorrow.	Le colis arrivera demain.
+I completely agree with you.	Je suis tout à fait d'accord avec vous.
+This is the best day of my life!	C'est le meilleur jour de ma vie !
+The museum is closed on Mondays.	Le musée est fermé le lundi.
+Could you speak more slowly, please?	Pourriez-vous parler plus lentement, s'il vous plaît ?
+I'm looking for the main entrance.	Je cherche l'entrée principale.
+She is an expert in her field.	C'est une experte dans son domaine.
+The system needs to be updated.	Le système doit être mis à jour.
+Are you ready to order?	Êtes-vous prêt à commander ?
+I appreciate your help.	J'apprécie votre aide.
+The results were impressive.	Les résultats étaient impressionnants.
+We should discuss this further.	Nous devrions en discuter davantage.
+Turn left at the next traffic lights.	Tournez à gauche au prochain feu rouge.
+I'll call you back later.	Je vous rappellerai plus tard.
+The quality is excellent.	La qualité est excellente.
+What are the terms and conditions?	Quelles sont les conditions générales ?
+I need to make a reservation.	Je dois faire une réservation.
+The decision was finally made.	La décision a finalement été prise.
+Keep up the good work!	Continuez votre excellent travail !
+The room is spacious and bright.	La chambre est spacieuse et lumineuse.
+I'm interested in learning more.	Je suis intéressé d'en savoir plus.
+The concert was canceled.	Le concert a été annulé.
+Please accept my apologies.	Veuillez accepter mes excuses.
+The book is available in many languages.	Le livre est disponible en plusieurs langues.
+Let me know if you need anything.	Faites-moi savoir si vous avez besoin de quoi que ce soit.
+The software is easy to use.	Le logiciel est facile à utiliser.
+I'm on my way.	Je suis en chemin.
+The view from here is breathtaking.	La vue d'ici est à couper le souffle.
+Check the battery level.	Vérifiez le niveau de la batterie.
+I'm afraid that's not possible.	J'ai bien peur que ce ne soit pas possible.
+We offer a full refund.	Nous offrons un remboursement complet.
+The data has been analyzed.	Les données ont été analysées.
+What is the purpose of your visit?	Quel est le but de votre visite ?
+I'm very proud of you.	Je suis très fier de vous.
+The password is incorrect.	Le mot de passe est incorrect.
+We will proceed as planned.	Nous allons procéder comme prévu.
+Please fill out this form.	Veuillez remplir ce formulaire.
+The team worked very hard.	L'équipe a travaillé très dur.
+I can't find my keys.	Je ne trouve pas mes clés.
+The offer is valid until Friday.	L'offre est valable jusqu'à vendredi.
+Let's meet at the usual place.	Retrouvons-nous à l'endroit habituel.
+The news was surprising.	La nouvelle était surprenante.
+I'm not sure about that.	Je n'en suis pas sûr.
+The device is charging.	L'appareil est en charge.
+We have a problem.	Nous avons un problème.
+The solution is simple.	La solution est simple.
+Please wait for further instructions.	Veuillez attendre d'autres instructions.
+I'm happy to announce the winner.	Je suis heureux d'annoncer le gagnant.
+The road is under construction.	La route est en travaux.
+Can I try it on?	Puis-je l'essayer ?
+The report is due next week.	Le rapport est à rendre la semaine prochaine.
+I need a moment to think.	J'ai besoin d'un moment pour réfléchir.
+The performance was outstanding.	La performance était exceptionnelle.
+We support your decision.	Nous soutenons votre décision.
+The error has been fixed.	L'erreur a été corrigée.
+What is your date of birth?	Quelle est votre date de naissance ?
+I'm here for the interview.	Je suis ici pour l'entretien.
+The price includes taxes.	Le prix comprend les taxes.
+Let's celebrate!	Célébrons !
+The situation is under control.	La situation est sous contrôle.
+I have a question.	J'ai une question.
+The application was rejected.	La candidature a été rejetée.
+Please double-check the address.	Veuillez double-vérifier l'adresse.
+I'm looking forward to it.	J'ai hâte d'y être.
+The store is having a sale.	Le magasin fait une vente.
+Can you give me an example?	Pouvez-vous me donner un exemple ?
+The rules must be followed.	Les règles doivent être respectées.
+I feel much better now.	Je me sens beaucoup mieux maintenant.
+The website is down for maintenance.	Le site Web est indisponible pour maintenance.
+Thank you for your patience.	Merci pour votre patience.
